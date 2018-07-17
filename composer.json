@@ -1,0 +1,7 @@
+{
+    "name": "velser/php-pdf-cv",
+    "description": "PDF CV generator in PHP",
+    "require": {
+        "tecnickcom/tcpdf": "^6.2"
+    }
+}

@@ -1,0 +1,5 @@
+.idea
+out/*
+!out/.gitkeep
+composer.phar
+vendor
