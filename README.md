@@ -4,7 +4,7 @@
 Just wanted to write my own geekish simple pdf cv generator with php to update my old cv :)
 No super styling done. Very quick and simple usage of tcpdf.
 
-## Requirments
+## Requirements
 - php 7
 - composer
 
